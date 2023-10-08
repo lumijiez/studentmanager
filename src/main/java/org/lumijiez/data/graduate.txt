@@ -1,0 +1,69 @@
+name: Alice
+surname: Johnson
+email: alice.johnson@example.com
+group: FAF-224
+faculty: FCEX
+specialty: Mechanical Engineering
+
+name: David
+surname: Smith
+email: david.smith@example.com
+group: FAF-221
+faculty: FCBT
+specialty: Software Engineering
+
+name: Sarah
+surname: Anderson
+email: sarah.anderson@example.com
+group: FAF-225
+faculty: FCNS
+specialty: Food Technology
+
+name: Michael
+surname: Williams
+email: michael.williams@example.com
+group: FAF-223
+faculty: FCGT
+specialty: Urbanism and Architecture
+
+name: Emily
+surname: Davis
+email: emily.davis@example.com
+group: FAF-222
+faculty: FCMP
+specialty: Veterinary Medicine
+
+name: James
+surname: Martinez
+email: james.martinez@example.com
+group: FAF-226
+faculty: FCOE
+specialty: Mechanical Engineering
+
+name: Olivia
+surname: Brown
+email: olivia.brown@example.com
+group: FAF-224
+faculty: FCTI
+specialty: Software Engineering
+
+name: Ethan
+surname: Taylor
+email: ethan.taylor@example.com
+group: FAF-222
+faculty: FCES
+specialty: Food Technology
+
+name: Sophia
+surname: Clark
+email: sophia.clark@example.com
+group: FAF-226
+faculty: FCPH
+specialty: Urbanism and Architecture
+
+name: Daniel
+surname: White
+email: daniel.white@example.com
+group: FAF-225
+faculty: FCAR
+specialty: Veterinary Medicine

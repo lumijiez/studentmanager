@@ -1,0 +1,89 @@
+name: Alice
+surname: Johnson
+email: alice.johnson@example.com
+group: FAF-224
+faculty: FCEX
+birthdate: 1997-08-20
+enroldate: 2016-09-01
+specialty: Mechanical Engineering
+
+name: David
+surname: Smith
+email: david.smith@example.com
+group: FAF-221
+faculty: FCBT
+birthdate: 1999-04-10
+enroldate: 2018-09-01
+specialty: Software Engineering
+
+name: Sarah
+surname: Anderson
+email: sarah.anderson@example.com
+group: FAF-225
+faculty: FCNS
+birthdate: 1995-11-28
+enroldate: 2017-09-01
+specialty: Food Technology
+
+name: Michael
+surname: Williams
+email: michael.williams@example.com
+group: FAF-223
+faculty: FCGT
+birthdate: 1996-07-15
+enroldate: 2016-09-01
+specialty: Urbanism and Architecture
+
+name: Emily
+surname: Davis
+email: emily.davis@example.com
+group: FAF-222
+faculty: FCMP
+birthdate: 1998-02-03
+enroldate: 2019-09-01
+specialty: Veterinary Medicine
+
+name: James
+surname: Martinez
+email: james.martinez@example.com
+group: FAF-226
+faculty: FCOE
+birthdate: 1994-10-12
+enroldate: 2015-09-01
+specialty: Mechanical Engineering
+
+name: Olivia
+surname: Brown
+email: olivia.brown@example.com
+group: FAF-224
+faculty: FCTI
+birthdate: 1997-03-25
+enroldate: 2016-09-01
+specialty: Software Engineering
+
+name: Ethan
+surname: Taylor
+email: ethan.taylor@example.com
+group: FAF-222
+faculty: FCES
+birthdate: 1999-01-17
+enroldate: 2018-09-01
+specialty: Food Technology
+
+name: Sophia
+surname: Clark
+email: sophia.clark@example.com
+group: FAF-226
+faculty: FCPH
+birthdate: 1996-12-05
+enroldate: 2017-09-01
+specialty: Urbanism and Architecture
+
+name: Daniel
+surname: White
+email: daniel.white@example.com
+group: FAF-225
+faculty: FCAR
+birthdate: 1993-09-08
+enroldate: 2015-09-01
+specialty: Veterinary Medicine
